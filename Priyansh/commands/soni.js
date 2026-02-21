@@ -7,7 +7,7 @@ module.exports.config = {
     version: "3.0.0",
     hasPermssion: 0,
     credits: "Mirrykal",
-    description: "Chat with Misha AI",
+    description: "Chat with Soni AI",
     commandCategory: "ai",
     usages: "[message]",
     cooldowns: 5,
@@ -16,7 +16,7 @@ module.exports.config = {
 // --- CONFIGURATION ---
 // 👇👇👇 APNI API KEY NICHE DAALO 👇👇👇
 
-const GROQ_API_KEY = "✨ 🔑 𝐀𝐃𝐃 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐐 𝐀𝐏𝐈 𝐊𝐄𝐘 𝐇𝐄𝐑𝐄 🔑 ✨";
+const GROQ_API_KEY = "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";
 
 // 👆👆👆 --------------------------- 👆👆👆
 
